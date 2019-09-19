@@ -1,6 +1,6 @@
 # Test-Ptoject-1c-for-Forus-
  Examination task at the course of Configuration 1C.
-<h1>Техническое задание</h1>
+<h2>Техническое задание</h2>
 
 <p>Разработать конфигурацию по учету стрижек в барбершопе.
 Требуемый функционал:</p>
